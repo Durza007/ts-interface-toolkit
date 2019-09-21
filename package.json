@@ -1,0 +1,18 @@
+{
+  "name": "ts-interface-gen",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrik Minder",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ts-creator": "^1.2.5",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.9"
+  }
+}
